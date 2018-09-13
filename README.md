@@ -1,6 +1,6 @@
 # whatsapp_clone
 
-A new Flutter project.
+A new Flutter project that have a clone for whatsapp the first communication mobile application.
 
 ## Getting Started
 
